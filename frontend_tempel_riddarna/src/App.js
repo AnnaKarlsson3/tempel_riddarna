@@ -9,6 +9,7 @@ import {
 } from "react-router-dom";
 import './sass/style.scss'
 import Topbar from './components/TopBar'
+import StickyFooter from './components/Sticky_Footer'
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
       <Switch>
         <Route exact path="/" component={Home} />
       </Switch>
+      <StickyFooter/>
     </Router>
 
   );

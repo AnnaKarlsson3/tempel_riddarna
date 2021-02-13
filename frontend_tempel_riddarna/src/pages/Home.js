@@ -7,6 +7,29 @@ export default function Home() {
         <Row>
           <Col lg="8" md="12" sm="12">
             <p>Nått här?</p>
+            <p>Nått här?</p>
+            <p>Nått här?</p>
+            <p>Nått här?</p>
+            <p>Nått här?</p>
+            <p>Nått här?</p>
+            <p>Nått här?</p>
+            <p>Nått här?</p>
+            <p>Nått här?</p>
+            <p>Nått här?</p>
+            <p>Nått här?</p>
+            <p>Nått här?</p>
+            <p>Nått här?</p>
+            <p>Nått här?</p>
+            <p>Nått här?</p>
+            <p>Nått här?</p>
+            <p>Nått här?</p>
+            <p>Nått här?</p>
+            <p>Nått här?</p>
+            <p>Nått här?</p>
+            <p>Nått här?</p>
+            <p>Nått här?</p>
+            <p>Nått här?</p>
+            <p>Nått här?</p>
           </Col>
           <Col lg="4" md="12" sm="12">
             <p>Nått här?</p>
