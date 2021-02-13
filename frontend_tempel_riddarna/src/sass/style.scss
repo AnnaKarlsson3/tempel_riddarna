@@ -1,0 +1,17 @@
+// Variable overrides for Bootstrap
+// (look in bootstrap/variables to see
+// what variables exists)
+@import 'variable-overrides';
+
+// The whole Bootstrap library
+@import 'bootstrap/bootstrap';
+
+//topbar style 
+@import 'topbar.scss';
+
+
+html, body {
+    height:100%;
+    background-color: $white;
+    }
+
