@@ -1,0 +1,37 @@
+@import 'variable-overrides';
+
+.image{
+    background-image: url("../assets/middle-ages.jpg"); 
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.free-space{
+    margin-top: 20%;
+}
+
+.nav-row{
+    background-color: $grey;
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.main-nav{
+    padding: 20px;
+}
+
+.nav-brand{
+    padding-left: 100px;
+}
+
+.navbar-main{
+    padding-right: 100px;
+}
+
+.nav-link{
+    padding-right: 1px;
+    padding-left: 5px;
+    color: $white;
+}
